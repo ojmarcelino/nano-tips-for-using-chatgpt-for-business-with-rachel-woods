@@ -1,0 +1,92 @@
+1
+00:00:00,60 --> 00:00:03,315
+One of the most powerful things about ChatGPT is just how good it
+
+2
+00:00:03,315 --> 00:00:06,570
+is at completing your task just from the prompt that you give it.
+
+3
+00:00:06,570 --> 00:00:10,109
+But, if you find yourself wanting to teach ChatGPT a more complex
+
+4
+00:00:10,109 --> 00:00:13,535
+task or having more control over the formatting of the output,
+
+5
+00:00:13,535 --> 00:00:16,47
+then try giving ChatGPT examples.
+
+6
+00:00:16,47 --> 00:00:20,297
+This is an approach called fuchsia learning where you give ChatGPT a
+
+7
+00:00:20,297 --> 00:00:23,786
+few shots or examples and it learns how to do that task.
+
+8
+00:00:23,786 --> 00:00:26,936
+To do this, add structure to your prompts that show example
+
+9
+00:00:26,936 --> 00:00:29,63
+inputs and outputs for your task.
+
+10
+00:00:29,63 --> 00:00:32,198
+When you give examples, you have more control over
+
+11
+00:00:32,198 --> 00:00:33,542
+how ChatGPT responds.
+
+12
+00:00:33,542 --> 00:00:35,373
+Let's look at a quick example.
+
+13
+00:00:35,373 --> 00:00:38,392
+Here, I've asked ChatGPT to generate a dog name.
+
+14
+00:00:38,392 --> 00:00:41,989
+Now, if I want more control over the formatting of the output,
+
+15
+00:00:41,989 --> 00:00:43,470
+I can give it an example.
+
+16
+00:00:43,470 --> 00:00:44,801
+As you see here,
+
+17
+00:00:44,801 --> 00:00:47,917
+now the format of the output matches what I gave
+
+18
+00:00:47,917 --> 00:00:49,20
+it in my example.
+
+19
+00:00:49,20 --> 00:00:52,921
+Keep in mind that you'll need to share these examples each time you
+
+20
+00:00:52,921 --> 00:00:56,940
+start a new thread, because ChatGPT only remembers the examples within
+
+21
+00:00:56,940 --> 00:00:58,536
+the context of your prompt.
+
+22
+00:00:58,536 --> 00:01:02,415
+But this can be a very powerful tool for getting more specific
+
+23
+00:01:02,415 --> 00:01:04,00
+results from ChatGPT.
+

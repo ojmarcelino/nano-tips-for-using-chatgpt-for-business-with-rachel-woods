@@ -1,0 +1,84 @@
+1
+00:00:00,30 --> 00:00:03,622
+I'm going to explain the basics of how ChatGPT works so that you can
+
+2
+00:00:03,622 --> 00:00:06,838
+be more informed and get the most out of this new technology.
+
+3
+00:00:06,838 --> 00:00:11,87
+ChatGPT is an application built on top of an AI model called GPT.
+
+4
+00:00:11,87 --> 00:00:15,792
+GPT is a massive AI model that was trained on billions of words
+
+5
+00:00:15,792 --> 00:00:19,510
+across a bunch of books, a lot of the internet and
+
+6
+00:00:19,510 --> 00:00:20,952
+a lot of Wikipedia.
+
+7
+00:00:20,952 --> 00:00:24,668
+GPT works by taking input, text and using what its learned
+
+8
+00:00:24,668 --> 00:00:27,993
+about language to predict the next most likely word.
+
+9
+00:00:27,993 --> 00:00:30,965
+Once it has that word, it does the same process again to
+
+10
+00:00:30,965 --> 00:00:32,803
+predict the next most likely word.
+
+11
+00:00:32,803 --> 00:00:36,382
+At its core, all GPT is doing is predicting the next
+
+12
+00:00:36,382 --> 00:00:37,575
+most likely word,
+
+13
+00:00:37,575 --> 00:00:39,620
+given the preceding words.
+
+14
+00:00:39,620 --> 00:00:43,745
+And one of the most exciting things about GPT is because it's
+
+15
+00:00:43,745 --> 00:00:46,426
+learned to predict words so effectively,
+
+16
+00:00:46,426 --> 00:00:49,245
+it's able to perform a lot of other tasks.
+
+17
+00:00:49,245 --> 00:00:53,598
+It can be customized and even fine tuned to get better at specific
+
+18
+00:00:53,598 --> 00:00:54,870
+tasks or use cases.
+
+19
+00:00:54,870 --> 00:00:58,83
+And ChatGPT is a great example of this.
+
+20
+00:00:58,83 --> 00:01:02,476
+OpenAI fine tuned GPT to be better at chat by feeding it a bunch of
+
+21
+00:01:02,476 --> 00:01:04,00
+examples of chat conversations.
+

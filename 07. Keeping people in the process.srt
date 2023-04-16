@@ -1,0 +1,112 @@
+1
+00:00:00,90 --> 00:00:03,75
+AI tools like ChatGPT are incredibly powerful,
+
+2
+00:00:03,75 --> 00:00:06,276
+but it's important to keep people involved in the process.
+
+3
+00:00:06,276 --> 00:00:09,510
+In this video, I'll explain why. AI models are impressive,
+
+4
+00:00:09,510 --> 00:00:11,94
+but they are far from perfect.
+
+5
+00:00:11,94 --> 00:00:12,570
+If you've ever used ChatGPT,
+
+6
+00:00:12,570 --> 00:00:16,438
+you've seen that the outputs of these tools can be questionable,
+
+7
+00:00:16,438 --> 00:00:19,131
+and that's true for other tools like DALL-E,
+
+8
+00:00:19,131 --> 00:00:20,700
+Midjourney and more.
+
+9
+00:00:20,700 --> 00:00:24,330
+That's why it's important to keep a human involved in the process to
+
+10
+00:00:24,330 --> 00:00:27,93
+provide oversight and make sure that the results are
+
+11
+00:00:27,93 --> 00:00:27,960
+of high quality.
+
+12
+00:00:27,960 --> 00:00:31,956
+This is especially important in high stakes domains such as code
+
+13
+00:00:31,956 --> 00:00:35,190
+generation or showing the output to an end customer.
+
+14
+00:00:35,190 --> 00:00:39,327
+For example, I would not recommend setting up an automated email
+
+15
+00:00:39,327 --> 00:00:43,267
+response where you have GPT generating the results unless you
+
+16
+00:00:43,267 --> 00:00:46,747
+are certain that it is very good and does not generate
+
+17
+00:00:46,747 --> 00:00:48,60
+any weird responses.
+
+18
+00:00:48,60 --> 00:00:51,605
+I think it's much better to think about the results out of these AI
+
+19
+00:00:51,605 --> 00:00:54,989
+models as a first draft and then you should review and edit that
+
+20
+00:00:54,989 --> 00:00:57,729
+output to get it to the quality level that you want.
+
+21
+00:00:57,729 --> 00:01:01,66
+If you aren't going to review every single response,
+
+22
+00:01:01,66 --> 00:01:03,762
+at a minimum, you should be reviewing results on
+
+23
+00:01:03,762 --> 00:01:04,680
+a regular basis.
+
+24
+00:01:04,680 --> 00:01:08,128
+And one last tip is that you should keep track of what the AI
+
+25
+00:01:08,128 --> 00:01:11,117
+model generated versus what's your final result after
+
+26
+00:01:11,117 --> 00:01:12,94
+you've edited it.
+
+27
+00:01:12,94 --> 00:01:16,937
+This can provide good context of how well is the AI model doing at
+
+28
+00:01:16,937 --> 00:01:19,00
+the first pass draft of your task.
+

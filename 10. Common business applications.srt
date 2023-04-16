@@ -1,0 +1,104 @@
+1
+00:00:00,60 --> 00:00:02,430
+How are people using AI in their day to day work?
+
+2
+00:00:02,430 --> 00:00:05,678
+First, I like to think of AI almost like you're delegating work
+
+3
+00:00:05,678 --> 00:00:08,140
+to an intern or someone that's new on your team.
+
+4
+00:00:08,140 --> 00:00:11,202
+I think it's a good analogy because, just like you'd have to
+
+5
+00:00:11,202 --> 00:00:14,00
+give that person context, you're going to need to give
+
+6
+00:00:14,00 --> 00:00:15,214
+the AI context as well.
+
+7
+00:00:15,214 --> 00:00:17,61
+And by thinking about it as delegating,
+
+8
+00:00:17,61 --> 00:00:20,516
+you can reflect on what are the things that you love to do and how
+
+9
+00:00:20,516 --> 00:00:23,120
+could you delegate the mundane work that you don't
+
+10
+00:00:23,120 --> 00:00:24,24
+like doing to AI?
+
+11
+00:00:24,24 --> 00:00:27,534
+We are seeing AI be applied across almost every domain,
+
+12
+00:00:27,534 --> 00:00:30,443
+but some of the most mature ones are AI in marketing,
+
+13
+00:00:30,443 --> 00:00:33,364
+customer support, sales and even software
+
+14
+00:00:33,364 --> 00:00:34,240
+development.
+
+15
+00:00:34,240 --> 00:00:37,139
+Within marketing, you can use AI to help you create
+
+16
+00:00:37,139 --> 00:00:41,23
+marketing materials such as emails and social media posts and sales.
+
+17
+00:00:41,23 --> 00:00:43,560
+AI can help you generate personalized outreach,
+
+18
+00:00:43,560 --> 00:00:46,688
+research your customer and even summarize meeting notes from a
+
+19
+00:00:46,688 --> 00:00:48,404
+sales call. In internal operations,
+
+20
+00:00:48,404 --> 00:00:51,887
+people are using AI to create the first draft of project plans,
+
+21
+00:00:51,887 --> 00:00:54,683
+drafting proposals and even drafting slide decks for
+
+22
+00:00:54,683 --> 00:00:57,644
+presentations. In software engineering AI is even helping
+
+23
+00:00:57,644 --> 00:01:00,56
+people write code in a fraction of the time.
+
+24
+00:01:00,56 --> 00:01:03,495
+There's no shortage of ways to use AI across every domain.
+
+25
+00:01:03,495 --> 00:01:06,669
+The best place to start is just to try a bunch of tools and see how
+
+26
+00:01:06,669 --> 00:01:08,00
+AI could help you in your work.
+

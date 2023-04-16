@@ -1,0 +1,116 @@
+1
+00:00:00,180 --> 00:00:02,402
+Have you ever wondered how computers are able
+
+2
+00:00:02,402 --> 00:00:03,210
+to generate art,
+
+3
+00:00:03,210 --> 00:00:05,928
+write stories, and even create music?
+
+4
+00:00:05,928 --> 00:00:09,854
+Well, it's because of a new type of AI technology called
+
+5
+00:00:09,854 --> 00:00:10,853
+Generative AI.
+
+6
+00:00:10,853 --> 00:00:14,359
+Generative AI is a type of artificial intelligence that's
+
+7
+00:00:14,359 --> 00:00:18,302
+able to learn from patterns and data and generate new data based
+
+8
+00:00:18,302 --> 00:00:19,742
+on what it has learned.
+
+9
+00:00:19,742 --> 00:00:23,804
+Today, the most widely used types of Generative AI are models that
+
+10
+00:00:23,804 --> 00:00:27,491
+are generating text or images such as ChatGPT or Midjourney.
+
+11
+00:00:27,491 --> 00:00:30,71
+But these models can be applied across a lot of different
+
+12
+00:00:30,71 --> 00:00:30,716
+types of data,
+
+13
+00:00:30,716 --> 00:00:33,933
+including audio, video, 3D models,
+
+14
+00:00:33,933 --> 00:00:35,773
+and the list is growing every day.
+
+15
+00:00:35,773 --> 00:00:40,289
+And that ability to generate new data has really democratized
+
+16
+00:00:40,289 --> 00:00:41,268
+access to AI.
+
+17
+00:00:41,268 --> 00:00:43,750
+In the past, to use AI, you would have to train one
+
+18
+00:00:43,750 --> 00:00:46,707
+of these models yourself, which would require you to have
+
+19
+00:00:46,707 --> 00:00:50,140
+big data and an experienced team that can go and build that model.
+
+20
+00:00:50,140 --> 00:00:53,687
+But now, because these models have learned that core task,
+
+21
+00:00:53,687 --> 00:00:58,55
+such as generating text, they are actually able to be
+
+22
+00:00:58,55 --> 00:01:03,264
+applied across a whole variety of new tasks, such as summarizing
+
+23
+00:01:03,264 --> 00:01:04,104
+documents,
+
+24
+00:01:04,104 --> 00:01:06,975
+copywriting, writing code and a lot more.
+
+25
+00:01:06,975 --> 00:01:08,880
+There are a growing number of companies,
+
+26
+00:01:08,880 --> 00:01:11,573
+including OpenAI, who are building these models and
+
+27
+00:01:11,573 --> 00:01:13,727
+then making them available to the public.
+
+28
+00:01:13,727 --> 00:01:17,657
+So, if you've ever wanted to use AI in your business or in your work,
+
+29
+00:01:17,657 --> 00:01:21,00
+there's never been a better time, thanks to Generative AI.
+

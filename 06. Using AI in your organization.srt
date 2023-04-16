@@ -1,0 +1,100 @@
+1
+00:00:00,90 --> 00:00:03,390
+Here are three easy steps to start using AI in your business.
+
+2
+00:00:03,390 --> 00:00:05,563
+The first is to develop AI literacy,
+
+3
+00:00:05,563 --> 00:00:09,412
+which is an understanding of what is AI and how can it be used.
+
+4
+00:00:09,412 --> 00:00:13,301
+For example, today AI can be used to create content,
+
+5
+00:00:13,301 --> 00:00:17,558
+summarize, synthesize, predict, classify and a lot more.
+
+6
+00:00:17,558 --> 00:00:20,587
+You also need to understand the limitations of AI so that you can
+
+7
+00:00:20,587 --> 00:00:22,575
+make smart decisions about how to apply it.
+
+8
+00:00:22,575 --> 00:00:25,205
+The second step is to get a deeper understanding of the
+
+9
+00:00:25,205 --> 00:00:26,130
+capabilities of AI.
+
+10
+00:00:26,130 --> 00:00:30,180
+The best way to do this is to start playing with some of the AI
+
+11
+00:00:30,180 --> 00:00:32,401
+tools that are launching every day,
+
+12
+00:00:32,401 --> 00:00:36,517
+Focus on learning and having a little bit of fun and then try to
+
+13
+00:00:36,517 --> 00:00:40,698
+find tools across a variety of applications from text to image, to
+
+14
+00:00:40,698 --> 00:00:44,160
+audio, to video, to data, and whatever else you could find.
+
+15
+00:00:44,160 --> 00:00:48,280
+The best way to develop AI literacy is just to start trying stuff.
+
+16
+00:00:48,280 --> 00:00:51,217
+And once you're ready to start putting AI to work for you,
+
+17
+00:00:51,217 --> 00:00:54,206
+start by identifying a few internal tasks that
+
+18
+00:00:54,206 --> 00:00:55,335
+you want to have AI
+
+19
+00:00:55,335 --> 00:00:56,490
+start to help you with.
+
+20
+00:00:56,490 --> 00:00:59,748
+While it can be tempting to jump to building a new product or
+
+21
+00:00:59,748 --> 00:01:01,648
+service for your end customer first,
+
+22
+00:01:01,648 --> 00:01:05,231
+I recommend that you start with an internal use case because you're
+
+23
+00:01:05,231 --> 00:01:08,380
+going to learn a lot more from having first-hand experience.
+
+24
+00:01:08,380 --> 00:01:11,284
+I hope that these steps help you get started with AI in your
+
+25
+00:01:11,284 --> 00:01:12,00
+work or organization.
+

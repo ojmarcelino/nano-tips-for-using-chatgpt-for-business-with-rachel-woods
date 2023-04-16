@@ -1,0 +1,80 @@
+1
+00:00:00,60 --> 00:00:03,265
+If you want to customize ChatGPT further for your use cases,
+
+2
+00:00:03,265 --> 00:00:05,970
+there are a few approaches that you can take.
+
+3
+00:00:05,970 --> 00:00:08,375
+One approach you can do is something called fine-tuning,
+
+4
+00:00:08,375 --> 00:00:13,168
+where you basically give ChatGPT a large data set of example inputs
+
+5
+00:00:13,168 --> 00:00:17,888
+and example outputs for a given task, and that teaches the AI model
+
+6
+00:00:17,888 --> 00:00:19,703
+how to perform your task.
+
+7
+00:00:19,703 --> 00:00:23,210
+Another approach is to bring in outside context or data into
+
+8
+00:00:23,210 --> 00:00:24,339
+your prompt itself.
+
+9
+00:00:24,339 --> 00:00:27,373
+You could pull in data such as your company's support documents,
+
+10
+00:00:27,373 --> 00:00:29,820
+internal wikis or any type of database,
+
+11
+00:00:29,820 --> 00:00:31,515
+so that when you're asked a question,
+
+12
+00:00:31,515 --> 00:00:35,821
+you can look up the most relevant information in that outside data
+
+13
+00:00:35,821 --> 00:00:39,729
+set and then pull in the most relevant context to provide as
+
+14
+00:00:39,729 --> 00:00:42,710
+support to ChatGPT as it generates the answer.
+
+15
+00:00:42,710 --> 00:00:45,825
+There are a growing number of products and providers that are
+
+16
+00:00:45,825 --> 00:00:48,05
+helping people do both of these approaches.
+
+17
+00:00:48,05 --> 00:00:51,827
+Or your engineering team can use OpenAI's documentation to develop
+
+18
+00:00:51,827 --> 00:00:53,767
+an internal version for yourself.
+
+19
+00:00:53,767 --> 00:00:56,681
+But if you thought that ChatGPT was powerful as is,
+
+20
+00:00:56,681 --> 00:00:59,00
+wait until you customize it for your data.
+

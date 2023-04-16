@@ -1,0 +1,148 @@
+1
+00:00:00,90 --> 00:00:03,452
+Writing a good prompt helps us get the most out of AI tools
+
+2
+00:00:03,452 --> 00:00:04,205
+like ChatGPT.
+
+3
+00:00:04,205 --> 00:00:07,510
+Prompting is a way to give these AI models direction so it can
+
+4
+00:00:07,510 --> 00:00:10,110
+understand our task and then help us complete it.
+
+5
+00:00:10,110 --> 00:00:12,743
+But to get the best results, you need to know how to
+
+6
+00:00:12,743 --> 00:00:13,776
+craft a good prompt.
+
+7
+00:00:13,776 --> 00:00:16,293
+And most people who struggle with prompting are making
+
+8
+00:00:16,293 --> 00:00:17,100
+the same mistake.
+
+9
+00:00:17,100 --> 00:00:19,613
+They're being too generic and expecting that AI is just
+
+10
+00:00:19,613 --> 00:00:20,730
+going to read our minds.
+
+11
+00:00:20,730 --> 00:00:24,419
+For example, if you ask something generic like write a social media
+
+12
+00:00:24,419 --> 00:00:27,214
+caption for a bakery, you're going to get something
+
+13
+00:00:27,214 --> 00:00:28,220
+generic in return.
+
+14
+00:00:28,220 --> 00:00:29,635
+So what makes a good prompt?
+
+15
+00:00:29,635 --> 00:00:32,798
+Well, first, you need to create context. Before you ask the
+
+16
+00:00:32,798 --> 00:00:35,904
+AI model to do something, you need to help it understand
+
+17
+00:00:35,904 --> 00:00:36,412
+the task.
+
+18
+00:00:36,412 --> 00:00:39,591
+One best practice is to tell the AI what you want it
+
+19
+00:00:39,591 --> 00:00:40,526
+to act as,
+
+20
+00:00:40,526 --> 00:00:44,181
+such as a social media marketer, which helps roleplay and have
+
+21
+00:00:44,181 --> 00:00:45,854
+more context for your task.
+
+22
+00:00:45,854 --> 00:00:49,874
+Second, you want to be specific and give the AI a more concrete
+
+23
+00:00:49,874 --> 00:00:50,717
+task at hand.
+
+24
+00:00:50,717 --> 00:00:54,447
+Like you will be responsible for writing engaging social media
+
+25
+00:00:54,447 --> 00:00:57,321
+captions for Instagram feed, for our bakery.
+
+26
+00:00:57,321 --> 00:01:00,51
+You write in our brand voice, which is friendly,
+
+27
+00:01:00,51 --> 00:01:01,110
+casual and witty.
+
+28
+00:01:01,110 --> 00:01:03,956
+Then you want to give clear instructions for what you
+
+29
+00:01:03,956 --> 00:01:04,887
+expect in return.
+
+30
+00:01:04,887 --> 00:01:08,212
+For example, saying, my first request is I need a
+
+31
+00:01:08,212 --> 00:01:10,705
+caption for a blue boy birthday cake.
+
+32
+00:01:10,705 --> 00:01:14,992
+Finally, be as simple and concise with your language as possible.
+
+33
+00:01:14,992 --> 00:01:17,128
+And if you find yourself getting wordy,
+
+34
+00:01:17,128 --> 00:01:20,52
+you can even ask the AI model to rewrite your prompt
+
+35
+00:01:20,52 --> 00:01:21,120
+to be more concise.
+
+36
+00:01:21,120 --> 00:01:24,193
+Keep these tips in mind and you're going to be able to get the most
+
+37
+00:01:24,193 --> 00:01:25,00
+out of AI models like ChatGPT.
+

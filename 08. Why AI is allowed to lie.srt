@@ -1,0 +1,88 @@
+1
+00:00:00,180 --> 00:00:03,175
+Have you ever used ChatGPT and found that the output
+
+2
+00:00:03,175 --> 00:00:04,350
+was very inaccurate?
+
+3
+00:00:04,350 --> 00:00:06,510
+Let's talk about why that happens.
+
+4
+00:00:06,510 --> 00:00:10,153
+ChatGPT is a powerful AI model, but at its, core all it's doing is
+
+5
+00:00:10,153 --> 00:00:13,398
+learning patterns from words and using that to predict the
+
+6
+00:00:13,398 --> 00:00:14,650
+next most likely word.
+
+7
+00:00:14,650 --> 00:00:17,967
+This allows it to generate text that sounds coherent
+
+8
+00:00:17,967 --> 00:00:18,877
+and confident,
+
+9
+00:00:18,877 --> 00:00:21,738
+but that doesn't always mean that it's accurate.
+
+10
+00:00:21,738 --> 00:00:24,80
+This is known as the hallucination problem,
+
+11
+00:00:24,80 --> 00:00:27,09
+when the generated text doesn't match the underlying data
+
+12
+00:00:27,09 --> 00:00:27,950
+that it was given.
+
+13
+00:00:27,950 --> 00:00:31,929
+For example, ChatGPT can make up non existent biographies of
+
+14
+00:00:31,929 --> 00:00:33,303
+fake famous people.
+
+15
+00:00:33,303 --> 00:00:36,180
+It can give historical context on fake events,
+
+16
+00:00:36,180 --> 00:00:39,867
+and it can even provide pretty compelling logic that's not
+
+17
+00:00:39,867 --> 00:00:41,678
+actually conceptually sound.
+
+18
+00:00:41,678 --> 00:00:44,428
+To reduce this, you can write better prompts or
+
+19
+00:00:44,428 --> 00:00:47,896
+provide additional context or data for the AI model to use.
+
+20
+00:00:47,896 --> 00:00:51,291
+However, it's still not foolproof, and that's why you should always
+
+21
+00:00:51,291 --> 00:00:54,274
+review the output coming out of these models to ensure that
+
+22
+00:00:54,274 --> 00:00:55,00
+they are accurate.
+

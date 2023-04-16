@@ -1,0 +1,128 @@
+1
+00:00:00,60 --> 00:00:03,40
+What happens to your data when you're using AI models
+
+2
+00:00:03,40 --> 00:00:03,785
+like ChatGPT?
+
+3
+00:00:03,785 --> 00:00:06,882
+If you're using AI at work or for your business,
+
+4
+00:00:06,882 --> 00:00:10,256
+this is an important question to ask and understand.
+
+5
+00:00:10,256 --> 00:00:13,765
+Now, the details of how data is used varies based on the
+
+6
+00:00:13,765 --> 00:00:14,870
+product or model.
+
+7
+00:00:14,870 --> 00:00:16,620
+And if you have specific questions,
+
+8
+00:00:16,620 --> 00:00:19,915
+I recommend talking to a lawyer about data ownership and privacy.
+
+9
+00:00:19,915 --> 00:00:23,745
+But, here are three questions which are good to ask and keep in mind.
+
+10
+00:00:23,745 --> 00:00:26,691
+First is, do you have commercial rights to the output?
+
+11
+00:00:26,691 --> 00:00:29,572
+For example, if you want to use an image that you've generated
+
+12
+00:00:29,572 --> 00:00:31,744
+using an AI tool, you'll need to understand the
+
+13
+00:00:31,744 --> 00:00:34,200
+licensing that comes with the tool that you're using.
+
+14
+00:00:34,200 --> 00:00:38,474
+Second is, are your inputs and outputs being used to improve
+
+15
+00:00:38,474 --> 00:00:40,242
+the underlying AI model?
+
+16
+00:00:40,242 --> 00:00:43,966
+This is very common for tech products and it was the reason why
+
+17
+00:00:43,966 --> 00:00:47,149
+ChatGPT was launched and given for free to the public.
+
+18
+00:00:47,149 --> 00:00:49,565
+They specifically call this a research preview
+
+19
+00:00:49,565 --> 00:00:52,82
+for those purposes. You can learn about how this works
+
+20
+00:00:52,82 --> 00:00:54,885
+for any product that you're using, usually by looking at the
+
+21
+00:00:54,885 --> 00:00:55,692
+terms of service.
+
+22
+00:00:55,692 --> 00:00:59,790
+Third is, what data am I sharing in order to use the service?
+
+23
+00:00:59,790 --> 00:01:02,985
+Many of the AI products today help us with productivity,
+
+24
+00:01:02,985 --> 00:01:05,322
+and so they usually need access to some of our tools,
+
+25
+00:01:05,322 --> 00:01:08,504
+such as our email or our Google Drive and other sensitive
+
+26
+00:01:08,504 --> 00:01:09,186
+information.
+
+27
+00:01:09,186 --> 00:01:12,498
+You should understand and only give access to the companies and
+
+28
+00:01:12,498 --> 00:01:13,780
+products that you trust.
+
+29
+00:01:13,780 --> 00:01:17,439
+And last, I recommend having an open conversation about this with
+
+30
+00:01:17,439 --> 00:01:21,42
+your work or business, because these are very important questions
+
+31
+00:01:21,42 --> 00:01:24,129
+to have in mind as you're trying to use AI in your work
+
+32
+00:01:24,129 --> 00:01:25,00
+or day to day.
+
